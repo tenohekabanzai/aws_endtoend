@@ -1,0 +1,6 @@
+customhost = "localhost"
+customuser = "root"
+custompass = "password"
+customdb = "student"
+custombucket = "thisismystudentbucket"
+customregion = "us-east-2"
